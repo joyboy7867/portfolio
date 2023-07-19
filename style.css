@@ -433,11 +433,20 @@ button{
     }
     .direct-contact-container, .form-horizontal {
       margin: 0 auto;
+      width: 80%;
     }  
+    .send-button{
+      width: 80%;
+     
+    }
+    .fa-paper-plane{
+      margin-right: 48%;
+    }
     
+   
     .direct-contact-container {
       margin-top: 60px;
-      max-width: 300px;
+      max-width: 100px;
     }    
     .social-media-list li {
       height: 60px;
@@ -522,7 +531,7 @@ footer{
         text-align: center;
     }
     .boy{
-        width: 100%;
+        width: 90%;
         height: 60%;
         margin-top:27% ; 
     }
