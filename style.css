@@ -520,6 +520,9 @@ footer{
         width: 30%;
         margin-left: 0%;
     }
+    .direct-contact-container{
+      
+    }
     .changetitle{
         font-size: 80px;
         margin-left: 20%;
@@ -545,14 +548,14 @@ footer{
     .abouttext{
         width: 60%;
         padding: 1%;
-        margin-left: 2%;
+        margin-left: 1%;
         margin-top: 70%;
     }
     .about{
         height: 60em;
     }
     .house{
-        margin-left: 3%;
+        margin-left: 6%;
         width: 50%;
         height: 30em;
     }
